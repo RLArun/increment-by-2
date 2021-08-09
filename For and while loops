@@ -1,0 +1,18 @@
+For loop:
+
+for i in range(0,20,2):
+	print (i)
+
+While loop:
+
+int myVariable = 10;
+
+while(true){
+
+if(myVariable >= 20) break;
+
+printf(myVariable);
+
+myVariable += 2;
+
+}
